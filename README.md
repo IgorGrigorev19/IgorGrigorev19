@@ -4,17 +4,23 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=1DF7F7&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+GitHub!;Learning+Python%2C+DevOps%2C+and+Cybersecurity;Building+awesome+projects!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=1DF7F7&center=true&vCenter=true&multiline=true&width=700&lines=Welcome+to+my+GitHub!;Learning+Python%2C+DevOps%2C+and+Cybersecurity;Building+awesome+projects!">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/I%20%F0%9F%92%9D%20DevOps-blueviolet?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Learning-Git%20%26%20Linux-success?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/DevOps%20Tools-Docker%20%7C%20Kubernetes-informational?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 ---
 
 ## 🛠️ My Skills:
 
-- 🐍 Python (scripting, basic automation)
-- ☁️ Linux, Bash, Git
-- 🗄️ Databases: PostgreSQL, MongoDB
-- 🛡️ Basic Cybersecurity (network, pentesting fundamentals)
+- 🐍 **Python** (scripting, basic automation)
+- ☁️ **Linux**, **Bash**, **Git**
+- 🗄️ **Databases:** PostgreSQL, MongoDB
+- 🛡️ **Basic Cybersecurity** (network, pentesting fundamentals)
 
 ---
 
@@ -38,16 +44,18 @@
 
 - 🤖 Python scripting for automation
 - 🔐 Cybersecurity fundamentals
-- ☁️ Cloud DevOps tools (Docker, Kubernetes)
+- ☁️ Cloud DevOps tools: **Docker**, **Kubernetes**, **CI/CD**
 
-
+---
 
 ## 📫 Connect with me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/baguguil)
 
-⭐️ **Feel free to star my repositories and follow for updates!**
+
+⭐️ **Feel free to star my repositories and follow my journey!**
 
 ---
 
 <p align="center">Thanks for stopping by! 👋</p>
+
