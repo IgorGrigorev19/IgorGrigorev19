@@ -4,7 +4,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=1DF7F7&center=true&vCenter=true&multiline=true&width=700&lines=Welcome+to+my+GitHub!;I+love+Python%2C+DevOps%2C+Cybersecurity;Follow+my+learning+journey!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=1DF7F7&center=true&vCenter=true&multiline=true&width=700&lines=Welcome+to+my+GitHub!;I+learn+Python%2C+DevOps%2C+Cybersecurity;Follow+my+journey!">
+
 
 </p>
 
